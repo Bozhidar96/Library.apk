@@ -66,6 +66,7 @@ public class AddEditMovieActivity extends AppCompatActivity implements View.OnCl
                 movie.setDescription(description);
                 movie.setGenre(genre);
                 movie.setArtists(artists);
+                movie.setDuree(temps);
             }
 
             if (id > 0) {
