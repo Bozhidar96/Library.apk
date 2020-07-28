@@ -1,2 +1,2 @@
 # Library.apk
-This is android-studio project for library movies.
+Android Studio project - "Movie Library". Piece of code from the project.
